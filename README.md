@@ -71,7 +71,7 @@ Blockchain-infused arcade game with Celo MiniPay rewards—proving Web3 can be f
       }
   }
   ```  
-[Repo]([https://github.com/RwegoEdcode/RockchainDuelArena](https://github.com/Edcode-bot/RockchainDeulArena))
+[Repo](https://github.com/Edcode-bot/RockchainDeulArena)
 
 ### **🧠 Intellitutor AI**  
 Your pocket AI tutor—chat-based learning for self-starters like me. Democratizes education with smarts and simplicity.  
@@ -95,7 +95,7 @@ Your pocket AI tutor—chat-based learning for self-starters like me. Democratiz
 Sleek mobile fintech for effortless daily payments—think Venmo meets Web3, built for speed in emerging markets.  
 - **Essentials:** QR scans + instant transfers • Fiat-to-crypto ramps.  
 - **Why It Matters:** Simplifies remittances for families like mine.  
-[Repo]([https://github.com/RwegoEdcode/Glidepay](https://github.com/Edcode-bot/Glide-Pay))
+[Repo](https://github.com/Edcode-bot/Glide-Pay)
 
 > *Exploring more? Check my [full repo list](https://github.com/Edcode-bot?tab=repositories) for experiments in Solana NFTs and AI ethics tools.*
 
