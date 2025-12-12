@@ -10,15 +10,16 @@ I'm a 16-year-old builder from Africa, grinding through code, Web3, and the hust
 ---
 
 ## 🏆 Badges
-[![GitHub followers](https://img.shields.io/github/followers/RwegoEdcode?style=social)](https://github.com/Edcode-bot)
-[![GitHub stars](https://img.shields.io/github/stars/RwegoEdcode?style=social)](https://github.com/Edcode-bot)
-[![Profile Views](https://komarev.com/ghpvc/?username=RwegoEdcode&color=brightgreen)](https://github.com/RwegoEdcode)
-[![Twitter Follow](https://img.shields.io/twitter/follow/RwegoEdcode?style=social)](https://twitter.com/RwegoEdcode)
+## 🏆 Badges
+[![GitHub followers](https://img.shields.io/github/followers/Edcode-bot?style=social)](https://github.com/Edcode-bot)
+[![GitHub stars](https://img.shields.io/github/stars/Edcode-bot?style=social)](https://github.com/Edcode-bot)
+[![Profile Views](https://komarev.com/ghpvc/?username=Edcode-bot&color=brightgreen)](https://github.com/Edcode-bot)
+[![Twitter Follow](https://img.shields.io/twitter/follow/RwegoEdcode?style=social)](https://twitter.com/edcode_9)
 
 [![Web3](https://img.shields.io/badge/Web3-Enthusiast-blueviolet?logo=ethereum)](https://ethereum.org)
 [![AI](https://img.shields.io/badge/AI-Experimenter-orange?logo=openai)](https://openai.com)
 [![Hackathons](https://img.shields.io/badge/Hackathons-Participant-brightgreen?logo=devpost)](https://devpost.com)
-[![Commits](https://img.shields.io/github/commit-activity/m/RwegoEdcode?color=success)](https://github.com/Edcode-bot)
+[![Commits](https://img.shields.io/github/commit-activity/m/Edcode-bot?color=success)](https://github.com/Edcode-bot)
 
 ---
 
