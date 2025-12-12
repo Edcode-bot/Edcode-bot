@@ -55,7 +55,7 @@ A Web3 group savings dApp on Celo, enabling real cUSD transactions for community
     console.log('Savings circle activated!');
   };
   ```  
- • [Repo](https://github.com/RwegoEdcode/StableCircle)
+ • [Repo](https://github.com/Edcode-bot/StableCircle)
 
 ### **🎮 Rockchain Duel Arena**  
 Blockchain-infused arcade game with Celo MiniPay rewards—proving Web3 can be fun, not friction. Hackathon darling.  
@@ -71,7 +71,7 @@ Blockchain-infused arcade game with Celo MiniPay rewards—proving Web3 can be f
       }
   }
   ```  
-[Repo](https://github.com/RwegoEdcode/RockchainDuelArena)
+[Repo]([https://github.com/RwegoEdcode/RockchainDuelArena](https://github.com/Edcode-bot/RockchainDeulArena))
 
 ### **🧠 Intellitutor AI**  
 Your pocket AI tutor—chat-based learning for self-starters like me. Democratizes education with smarts and simplicity.  
@@ -89,13 +89,13 @@ Your pocket AI tutor—chat-based learning for self-starters like me. Democratiz
   )
   print(response.choices[0].message.content)
   ```  
-• [Repo](https://github.com/RwegoEdcode/IntellitutorAI)
+•
 
 ### **💳 Glidepay**  
 Sleek mobile fintech for effortless daily payments—think Venmo meets Web3, built for speed in emerging markets.  
 - **Essentials:** QR scans + instant transfers • Fiat-to-crypto ramps.  
 - **Why It Matters:** Simplifies remittances for families like mine.  
-[Repo](https://github.com/RwegoEdcode/Glidepay)
+[Repo]([https://github.com/RwegoEdcode/Glidepay](https://github.com/Edcode-bot/Glide-Pay))
 
 > *Exploring more? Check my [full repo list](https://github.com/Edcode-bot?tab=repositories) for experiments in Solana NFTs and AI ethics tools.*
 
@@ -130,19 +130,18 @@ Connect beyond code—let's chat Web3 ethics, AI in education, or just share dev
 ---
 
 ## 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=edcode-bot&show_icons=true&hide_border=true&theme=transparent&include_all_commits=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=edcode-bot&layout=compact&theme=transparent&hide_border=true)  
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Edcode-bot&show_icons=true&hide_border=true&theme=transparent&include_all_commits=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Edcode-bot&layout=compact&theme=transparent&hide_border=true)  
 
 ### 🔥 Streak Flame
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=edcode-bot&theme=transparent)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Edcode-bot&theme=transparent)  
 
 ### 📈 Contribution Graph
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=edcode-bot&theme=react-dark&hide_border=true)  
-
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Edcode-bot&theme=react-dark&hide_border=true)
 ---
 
 ## 🏆 Trophy Cabinet
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=edcode-bot&theme=algolia&margin-w=10&no-frame=true&no-bg=true)  
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Edcode-bot&theme=algolia&margin-w=10&no-frame=true&no-bg=true)  
 
 *Earned through grit: 5+ hackathon nods, 100% commit consistency, and counting.*
 
