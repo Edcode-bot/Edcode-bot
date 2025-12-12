@@ -10,15 +10,15 @@ I'm a 16-year-old builder from Africa, grinding through code, Web3, and the hust
 ---
 
 ## 🏆 Badges
-[![GitHub followers](https://img.shields.io/github/followers/RwegoEdcode?style=social)](https://github.com/RwegoEdcode)
-[![GitHub stars](https://img.shields.io/github/stars/RwegoEdcode?style=social)](https://github.com/RwegoEdcode)
+[![GitHub followers](https://img.shields.io/github/followers/RwegoEdcode?style=social)](https://github.com/Edcode-bot)
+[![GitHub stars](https://img.shields.io/github/stars/RwegoEdcode?style=social)](https://github.com/Edcode-bot)
 [![Profile Views](https://komarev.com/ghpvc/?username=RwegoEdcode&color=brightgreen)](https://github.com/RwegoEdcode)
 [![Twitter Follow](https://img.shields.io/twitter/follow/RwegoEdcode?style=social)](https://twitter.com/RwegoEdcode)
 
 [![Web3](https://img.shields.io/badge/Web3-Enthusiast-blueviolet?logo=ethereum)](https://ethereum.org)
 [![AI](https://img.shields.io/badge/AI-Experimenter-orange?logo=openai)](https://openai.com)
 [![Hackathons](https://img.shields.io/badge/Hackathons-Participant-brightgreen?logo=devpost)](https://devpost.com)
-[![Commits](https://img.shields.io/github/commit-activity/m/RwegoEdcode?color=success)](https://github.com/RwegoEdcode)
+[![Commits](https://img.shields.io/github/commit-activity/m/RwegoEdcode?color=success)](https://github.com/Edcode-bot)
 
 ---
 
@@ -41,7 +41,6 @@ Handpicked highlights that showcase my grind—from Web3 wallets to AI educators
 
 ### **🟡 StableCircle**  
 A Web3 group savings dApp on Celo, enabling real cUSD transactions for community pooling. Tackles financial inclusion head-on.  
-![StableCircle Demo](https://via.placeholder.com/800x400/FFD700/000000?text=StableCircle+Demo)  
 - **Key Features:** WalletConnect + Web3Auth for seamless logins • Referral system + dynamic leaderboards • OpenRouter-powered chatbot for tips  
 - **In Progress:** Mobile redesign with React Native for on-the-go savings.  
 - **Quick Peek:**  
@@ -55,11 +54,10 @@ A Web3 group savings dApp on Celo, enabling real cUSD transactions for community
     console.log('Savings circle activated!');
   };
   ```  
-[Live Demo](https://stablecircle.vercel.app) • [Repo](https://github.com/RwegoEdcode/StableCircle)
+ • [Repo](https://github.com/RwegoEdcode/StableCircle)
 
 ### **🎮 Rockchain Duel Arena**  
 Blockchain-infused arcade game with Celo MiniPay rewards—proving Web3 can be fun, not friction. Hackathon darling.  
-![Rockchain Demo](https://via.placeholder.com/800x400/FF4500/FFFFFF?text=Rockchain+Duel+Arena)  
 - **Highlights:** MiniPay for instant micro-payments • Player vs. player duels with NFT rewards • Web3 integrations sans gas fees.  
 - **Impact:** Submitted to 3+ hackathons; 500+ plays in beta.  
 - **Code Snippet:**  
@@ -72,11 +70,10 @@ Blockchain-infused arcade game with Celo MiniPay rewards—proving Web3 can be f
       }
   }
   ```  
-[Play Now](https://rockchain.arena) • [Repo](https://github.com/RwegoEdcode/RockchainDuelArena)
+[Repo](https://github.com/RwegoEdcode/RockchainDuelArena)
 
 ### **🧠 Intellitutor AI**  
 Your pocket AI tutor—chat-based learning for self-starters like me. Democratizes education with smarts and simplicity.  
-![Intellitutor Demo](https://via.placeholder.com/800x400/4B0082/FFFFFF?text=IntelliTutor+AI)  
 - **Core:** OpenAI-powered Q&A • Adaptive lessons based on user pace • Exportable notes.  
 - **Roadmap:** Mobile app with voice mode (using Grok API vibes).  
 - **Sneak Peek:**  
@@ -91,16 +88,15 @@ Your pocket AI tutor—chat-based learning for self-starters like me. Democratiz
   )
   print(response.choices[0].message.content)
   ```  
-[Try It](https://intellitutor.ai) • [Repo](https://github.com/RwegoEdcode/IntellitutorAI)
+• [Repo](https://github.com/RwegoEdcode/IntellitutorAI)
 
 ### **💳 Glidepay**  
 Sleek mobile fintech for effortless daily payments—think Venmo meets Web3, built for speed in emerging markets.  
-![Glidepay Demo](https://via.placeholder.com/800x400/228B22/FFFFFF?text=Glidepay+Fintech)  
 - **Essentials:** QR scans + instant transfers • Fiat-to-crypto ramps.  
 - **Why It Matters:** Simplifies remittances for families like mine.  
 [Repo](https://github.com/RwegoEdcode/Glidepay)
 
-> *Exploring more? Check my [full repo list](https://github.com/RwegoEdcode?tab=repositories) for experiments in Solana NFTs and AI ethics tools.*
+> *Exploring more? Check my [full repo list](https://github.com/Edcode-bot?tab=repositories) for experiments in Solana NFTs and AI ethics tools.*
 
 ---
 
@@ -124,28 +120,28 @@ I wield these tools like a digital Swiss Army knife—focusing on stacks that sc
 ## 🔗 Find Me Online
 Connect beyond code—let's chat Web3 ethics, AI in education, or just share dev war stories.  
 
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/RwegoEdcode)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/rwegoedcode)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:rwegoedcode@gmail.com)  
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/edcode_9)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/edcode_9)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:rwegoedward@gmail.com)  
 
 **GitHub DMs? Always open. No cold outreach—genuine collabs only.**
 
 ---
 
 ## 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=RwegoEdcode&show_icons=true&hide_border=true&theme=transparent&include_all_commits=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RwegoEdcode&layout=compact&theme=transparent&hide_border=true)  
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=edcode-bot&show_icons=true&hide_border=true&theme=transparent&include_all_commits=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=edcode-bot&layout=compact&theme=transparent&hide_border=true)  
 
 ### 🔥 Streak Flame
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RwegoEdcode&theme=transparent)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=edcode-bot&theme=transparent)  
 
 ### 📈 Contribution Graph
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=RwegoEdcode&theme=react-dark&hide_border=true)  
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=edcode-bot&theme=react-dark&hide_border=true)  
 
 ---
 
 ## 🏆 Trophy Cabinet
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=RwegoEdcode&theme=algolia&margin-w=10&no-frame=true&no-bg=true)  
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=edcode-bot&theme=algolia&margin-w=10&no-frame=true&no-bg=true)  
 
 *Earned through grit: 5+ hackathon nods, 100% commit consistency, and counting.*
 
@@ -157,9 +153,8 @@ Connect beyond code—let's chat Web3 ethics, AI in education, or just share dev
 
 **Quote to Live By:** "Code is like humor. When you have to explain it, it’s bad." – Cory House *(But mine? It ships.)*
 
-Thanks for stopping by! Star this repo if it sparks joy. ⭐ Let's make waves. 🌊  
+Thanks for stopping by! ⭐ Let's make waves. 🌊  
 
 ---
 
-*Last updated: December 12, 2025 | Built with ❤️ using GitHub Flavored Markdown*  
-[View on GitHub](https://github.com/RwegoEdcode/RwegoEdcode)
+[Personal Portfolio](https://github.com/RwegoEdcode/RwegoEdcode)
