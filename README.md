@@ -55,7 +55,7 @@ A Web3 group savings dApp on Celo, enabling real cUSD transactions for community
     console.log('Savings circle activated!');
   };
   ```  
- • [Repo](https://github.com/Edcode-bot/StableCircle)
+[Repo](https://github.com/Edcode-bot/StableCircle)
 
 ### **🎮 Rockchain Duel Arena**  
 Blockchain-infused arcade game with Celo MiniPay rewards—proving Web3 can be fun, not friction. Hackathon darling.  
@@ -129,22 +129,8 @@ Connect beyond code—let's chat Web3 ethics, AI in education, or just share dev
 
 ---
 
-## 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Edcode-bot&show_icons=true&hide_border=true&theme=transparent&include_all_commits=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Edcode-bot&layout=compact&theme=transparent&hide_border=true)  
-
-### 🔥 Streak Flame
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Edcode-bot&theme=transparent)  
-
 ### 📈 Contribution Graph
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Edcode-bot&theme=react-dark&hide_border=true)
----
-
-## 🏆 Trophy Cabinet
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Edcode-bot&theme=algolia&margin-w=10&no-frame=true&no-bg=true)  
-
-*Earned through grit: 5+ hackathon nods, 100% commit consistency, and counting.*
-
 ---
 
 ## 🎯 Currently Building
