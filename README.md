@@ -122,7 +122,7 @@ I wield these tools like a digital Swiss Army knife—focusing on stacks that sc
 Connect beyond code—let's chat Web3 ethics, AI in education, or just share dev war stories.  
 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/edcode_9)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/edcode_9)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rwego-edward-440052325)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:rwegoedward@gmail.com)  
 
 **GitHub DMs? Always open. No cold outreach—genuine collabs only.**
