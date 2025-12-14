@@ -1,9 +1,9 @@
 ![Banner Image](Banner.png)
 
 # 👋 Hey! I'm **Rwego Edward**
-### 🌟 Young Software Developer • Web3 Builder • AI Experimenter • 16-Year-Old Innovator
+### 🌟 Young Software Developer • Web3 Builder • AI Experimenter • Young Innovator
 
-I'm a 16-year-old builder from Africa, grinding through code, Web3, and the hustle of real-life responsibilities. Every line I ship is fuel for lifting my family, sharpening my edge, and crafting tools that solve real problems—not just buzzwords.
+I'm a young builder from Africa, grinding through code, Web3, and the hustle of real-life responsibilities. Every line I ship is fuel for lifting my family, sharpening my edge, and crafting tools that solve real problems—not just buzzwords.
 
 **My vibe?** Quiet grind, loud impact. Inspired by underdogs turning constraints into code that changes lives. Let's build the future, one commit at a time. 🚀
 
